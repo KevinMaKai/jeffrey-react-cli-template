@@ -4,3 +4,4 @@
  * @Author: Jeffrey Ma
 -->
 ## templdate
+千万别删 cli用的这个模板
